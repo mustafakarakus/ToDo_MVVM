@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ToDo_MVVM</string>
+
+    <string name="Dummy_Task_1">Dummy Task 1</string>
+    <string name="Dummy_Task_2">Dummy Task 2</string>
+    <string name="Dummy_Task_3">Dummy Task 3</string>
+    <string name="Dummy_Task_4">Dummy Task 4</string>
+    <string name="Dummy_Task_5">Dummy Task 5</string>
+    <string name="Dummy_Task_6">Dummy Task 6</string>
+    <string name="Dummy_Task_7">Dummy Task 7</string>
+
 </resources>

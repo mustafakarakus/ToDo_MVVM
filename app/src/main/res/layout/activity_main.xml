@@ -25,7 +25,7 @@
             android:hint="Task Giriniz">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/textInputEditText_task"
+                android:id="@+id/task_edtTask"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white" />
@@ -35,7 +35,7 @@
     </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/RecyclerView_Items"
+        android:id="@+id/recycler_View"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_marginStart="8dp"
@@ -55,7 +55,7 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/floatingActinButton_AddTask"
+            android:id="@+id/fab_AddTask"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="end"
